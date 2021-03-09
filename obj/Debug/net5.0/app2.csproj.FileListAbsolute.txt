@@ -1,0 +1,5 @@
+D:\Projects\VisualStudioProjects\hackerank\learning\softing\app2\obj\Debug\net5.0\app2.csprojAssemblyReference.cache
+D:\Projects\VisualStudioProjects\hackerank\learning\softing\app2\obj\Debug\net5.0\app2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VisualStudioProjects\hackerank\learning\softing\app2\obj\Debug\net5.0\app2.AssemblyInfoInputs.cache
+D:\Projects\VisualStudioProjects\hackerank\learning\softing\app2\obj\Debug\net5.0\app2.AssemblyInfo.cs
+D:\Projects\VisualStudioProjects\hackerank\learning\softing\app2\obj\Debug\net5.0\app2.csproj.CoreCompileInputs.cache
